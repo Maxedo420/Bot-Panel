@@ -1,0 +1,1 @@
+vc-domain-verify=ns1.vercel-dns.com,917f6a29a0256bc46f1f
